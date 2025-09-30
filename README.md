@@ -26,6 +26,9 @@
 
 ## 📸 Showcase
 
+<img width="500"  alt="Screenshot 2025-09-30 211430" src="https://github.com/user-attachments/assets/6dd25aaa-ffbd-405d-b858-314efd73c0b0" />
+
+<img width="490" height="1004" alt="Screenshot 2025-09-30 211626" src="https://github.com/user-attachments/assets/055dc9ad-49a5-41c0-af8f-6b50f6db88e0" />
 
 
 ---
